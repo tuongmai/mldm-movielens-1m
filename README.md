@@ -7,6 +7,12 @@ Dataset: [MovieLens-1M](https://grouplens.org/datasets/movielens/#:~:text=MovieL
 
 ## Libraries
 
+Numpy
+Pandas
+Scikit-learn
+Pytorch
+Mathplotlib
+
 ## How to run
 
 1. Requirement
@@ -16,6 +22,12 @@ Dataset: [MovieLens-1M](https://grouplens.org/datasets/movielens/#:~:text=MovieL
   * WSL - (in case run on Windows)
 
 2. Install libraries
+
+  * `pip install numpy`
+  * `pip install pandas`
+  * `pip install scikit-learn`
+  * `pip install torch torchvision`
+  * `pip install matplotlib`
 
 3. Prepare dataset
 
